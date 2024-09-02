@@ -1,0 +1,182 @@
+{
+  "menu": {
+    "Dinner": {
+      "Small Plates": [
+        {
+          "name": "Tom Yum Soup",
+          "ingredients": ["shrimp", "seabass", "tomato", "mushroom", "lemongrass", "onion", "cilantro"]
+        },
+        {
+          "name": "Papaya Salad",
+          "ingredients": ["tomato", "thai chili", "lime", "garlic", "salted peanuts"]
+        },
+        {
+          "name": "Honey Walnut Shrimp",
+          "ingredients": ["candied walnut", "honey aioli", "ginger", "garlic", "vermicelli"]
+        },
+        {
+          "name": "Bang Bang Shrimp",
+          "ingredients": ["sriracha", "aioli", "ginger", "garlic", "vermicelli"]
+        },
+        {
+          "name": "Lobster Spring Rolls",
+          "ingredients": ["lettuce", "mint", "cucumber", "vermicelli", "rice paper", "peanut sauce"]
+        },
+        {
+          "name": "Coconut Curry",
+          "ingredients": ["tofu", "onion", "potato", "eggplant", "coconut cream"]
+        },
+        {
+          "name": "Tenderloin Tips",
+          "ingredients": ["onion", "bell pepper", "garlic", "soy", "oyster sauce", "chili pepper"]
+        },
+        {
+          "name": "Pad Thai",
+          "ingredients": ["rice noodles", "tamarind", "garlic", "chives", "egg", "sprouts", "pickled radish"]
+        }
+      ],
+      "Proteins": [
+        {
+          "name": "Prime New York Strip",
+          "description": "8oz USDA prime, japanese horseradish, daikon, pandan steak sauce"
+        },
+        {
+          "name": "Filet Mignon",
+          "description": "8oz, japanese horseradish, daikon, pandan steak sauce"
+        },
+        {
+          "name": "Fried Chicken",
+          "description": "karaage style, sake brine, sesame, lemon aioli, nori, lime leaves"
+        },
+        {
+          "name": "Jumbo Prawn Tandoori",
+          "description": "noodle puff, roasted red pepper sauce, coconut cream drizzle"
+        },
+        {
+          "name": "Black Cod",
+          "description": "forbidden rice, snow peas, miso glaze"
+        },
+        {
+          "name": "Chilean Seabass",
+          "description": "ginger-soy buerre blanc, sauteed bok choy"
+        }
+      ],
+      "Sides": [
+        {
+          "name": "Hash Browns",
+          "ingredients": ["cheddar", "onion", "bacon", "sour cream", "chives"]
+        },
+        {
+          "name": "Mashed Potatoes",
+          "ingredients": ["garlic", "butter"]
+        },
+        {
+          "name": "Fries",
+          "ingredients": ["nori", "ketchup"]
+        },
+        {
+          "name": "Fried Rice",
+          "ingredients": ["egg", "garlic", "scallions", "tomato", "soy"]
+        },
+        {
+          "name": "Stir Fried Broccoli",
+          "ingredients": ["asian broccoli", "garlic", "shallots"]
+        },
+        {
+          "name": "Sauteed Mushrooms",
+          "ingredients": ["garlic", "soy"]
+        }
+      ]
+    },
+    "Brunch": {
+      "Small Plates": [
+        {
+          "name": "Tom Yum Soup",
+          "ingredients": ["shrimp", "seabass", "tomato", "mushroom", "lemongrass", "onion", "cilantro"]
+        },
+        {
+          "name": "Papaya Salad",
+          "ingredients": ["tomato", "thai chili", "lime", "garlic", "salted peanuts"]
+        },
+        {
+          "name": "Honey Walnut Shrimp",
+          "ingredients": ["candied walnut", "honey aioli", "ginger", "garlic", "vermicelli"]
+        },
+        {
+          "name": "Bang Bang Shrimp",
+          "ingredients": ["sriracha", "aioli", "ginger", "garlic", "vermicelli"]
+        },
+        {
+          "name": "Lobster Spring Rolls",
+          "ingredients": ["lettuce", "mint", "cucumber", "vermicelli", "rice paper", "peanut sauce"]
+        },
+        {
+          "name": "Coconut Curry",
+          "ingredients": ["tofu", "onion", "potato", "eggplant", "coconut cream"]
+        },
+        {
+          "name": "Tenderloin Tips",
+          "ingredients": ["onion", "bell pepper", "garlic", "soy", "oyster sauce", "chili pepper"]
+        },
+        {
+          "name": "Pad Thai",
+          "ingredients": ["rice noodles", "tamarind", "garlic", "chives", "egg", "sprouts", "pickled radish"]
+        }
+      ],
+      "Salads": [
+        {
+          "name": "Iceberg",
+          "ingredients": ["iceberg lettuce", "bacon", "tomato", "blue cheese crumbles", "blue cheese dressing"],
+          "option": "add steak"
+        },
+        {
+          "name": "Caesar",
+          "ingredients": ["romaine lettuce", "shaved parmesan", "croutons", "caesar dressing"]
+        },
+        {
+          "name": "Spinach",
+          "ingredients": ["stilton cheese", "bacon", "candied walnut", "poached egg", "miso vinaigrette"]
+        },
+        {
+          "name": "Southeast chicken",
+          "ingredients": ["seared chicken breast", "shredded cabbage", "red onion", "bell peppers", "puff noodles", "peanut lime vinaigrette"]
+        }
+      ],
+      "Specialties": [
+        {
+          "name": "Bacon & Eggs",
+          "ingredients": ["sunny side eggs", "bacon", "hash browns", "cheddar", "sour cream", "chives"]
+        },
+        {
+          "name": "Rice Omelet",
+          "ingredients": ["three eggs", "fried rice", "bang sauce"]
+        },
+        {
+          "name": "Croissant Waffle",
+          "ingredients": ["maple syrup", "berry compote", "whipped cream"],
+          "option": "add fried chicken"
+        },
+        {
+          "name": "French Toast",
+          "ingredients": ["brioche", "sliced almonds", "berries", "bananas", "maple syrup"]
+        },
+        {
+          "name": "Pandan Pancakes",
+          "ingredients": ["coconut custard", "maple syrup"]
+        },
+        {
+          "name": "Bang Burger",
+          "ingredients": ["ground prime rib eye & filet", "american cheese", "bacon", "shredded lettuce", "bang sauce", "potato bun", "fries"]
+        },
+        {
+          "name": "Cheesesteak Sandwich",
+          "ingredients": ["sliced prime rib eye", "bell peppers", "cream cheese sauce", "amoroso roll", "fries"]
+        },
+        {
+          "name": "Fried Chicken Karaage Sandwich",
+          "ingredients": ["cabbage slaw", "japanese aioli", "potato bun", "fries"]
+        },
+        {
+          "name": "Fish Tacos",
+          "ingredients": ["grilled white fish", "cilantro", "onion", "tamarind chili sauce", "corn tortillas"]
+        }
